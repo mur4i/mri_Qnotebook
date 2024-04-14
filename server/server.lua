@@ -1,5 +1,5 @@
 RegisterUseableItem(Config.ItemName)
-
+local ox_inventory = exports.ox_inventory
 RegisterNetEvent('nyx-notebook:updateMetadata:server', function(metadata, slot, title, desc)
     local src = source
     local Player = GetPlayer(src)
