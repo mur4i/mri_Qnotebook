@@ -1,9 +1,10 @@
 ### Nyx Development Notebook
 This is a notebook script that is inspired from nopixel 4.0 and configurable. there will be updates for the script join our discord channel for previews and more information
 
-1.Preview : https://youtu.be/95FhJeC8VNU
-2.Tebex : https://nyxdev.tebex.io/
-3.Discord : https://discord.gg/RCrQZayqAs
+### Note
+Preview : https://youtu.be/95FhJeC8VNU
+Tebex : https://nyxdev.tebex.io/
+Discord : https://discord.gg/RCrQZayqAs
 
 
 
