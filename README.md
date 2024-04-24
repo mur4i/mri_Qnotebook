@@ -3,7 +3,7 @@ This is a notebook script that is inspired from nopixel 4.0 and configurable. th
 
 
 1. Preview : https://youtu.be/95FhJeC8VNU
-2. Tebex : https://nyxdev.tebex.io/
+2. Tebex : https://nyxdevelopment.tebex.io/
 3. Discord : https://discord.gg/RCrQZayqAs
 
 
